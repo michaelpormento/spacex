@@ -22,7 +22,8 @@ MJ To Do:
 - [x] Setup container and components needed
 - [x] Setup redux-saga and modules
 - [x] Configure store
-- [ ] Implement infinit scrolling from scratch
+- [ ] Paginate data before implementing infinite scrolling
+- [ ] Implement infinite scrolling from scratch
 
 ---
 
